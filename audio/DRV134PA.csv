@@ -1,0 +1,10 @@
+DRV134PA,,,
+Pin,Name,Type,Side
+1,-VO,out,left
+2,-SENSE,in,left
+3,GND,pwr,left
+4,VIN,in,left
+5,V-,pwr,right
+6,V+,pwr,right
+7,+SENSE,in,right
+8,+VO,out,right
